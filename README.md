@@ -23,6 +23,9 @@ https://youtu.be/QJ4EBMoA2sw
 
 Link to instruction on converting Deepstream RTSP outstream
 to HTTP stream.
+To use in Ignition Maker video player.
 
 https://youtu.be/3VEvOL_32L8
+
+
 
