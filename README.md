@@ -1,5 +1,5 @@
-# Xavier-NX_Ignition_Maker
- Nvidia Deepstream5+Ignition Maker+Metatdata+Python
+
+# Nvidia Deepstream5+Ignition Maker+Metatdata+Python
 
 Here is the items and steps you will need to run Nvidia deepstream5
 extract metadata and send to Ignition maker using Python.
