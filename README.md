@@ -28,4 +28,12 @@ To use in Ignition Maker video player.
 https://youtu.be/3VEvOL_32L8
 
 
+Download Deepstream Python Bindings and install at
+/opt/nvidia/deepstream/deepstream-5.0/sources
+
+https://github.com/NVIDIA-AI-IOT/deepstream_python_apps
+
+
+clone this repo and install 
+/opt/nvidia/deepstream/deepstream-5.0/sources
 
