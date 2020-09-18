@@ -1,0 +1,32 @@
+{
+  "name": "sparkplug-client",
+  "version": "3.2.2",
+  "description": "A client module for MQTT communication using the Sparkplug specification from Cirrus Link Solutions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eclipse/tahu.git"
+  },
+  "keywords": [
+    "tahu",
+    "mqtt",
+    "sparkplug"
+  ],
+  "author": "Chad Kienle <chad.kienle@cirrus-link.com> (http://www.cirrus-link.com)",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/eclipse/tahu/issues"
+  },
+  "homepage": "https://github.com/eclipse/tahu",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "mqtt": "^2.16.0",
+    "sparkplug-payload": "^1.0.1",
+    "pako": "^1.0.6",
+    "winston": "^2.4.0"
+  }
+}
