@@ -73,7 +73,7 @@ $python3 deepstream_ignition_usb.py /dev/video0
 
 
 
-11.This Shows the output of a .h264 file and send Deepstream metadata to ignition Maker
+11.This Shows the output of a .h264 file and sends Deepstream metadata to ignition Maker
 
 $python3 deepstream_ignition_rtsp_out.py /opt/nvidia/deepstream/deepstream-5.0/samples/streams/sample_720p.h264
 
