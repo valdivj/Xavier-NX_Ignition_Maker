@@ -54,7 +54,7 @@ https://github.com/NVIDIA-AI-IOT/deepstream_python_apps
 
 
 
-7.cd into "/opt/nvidia/deepstream/deepstream-5.0/sources/deepstream_python_apps-1.0/apps"
+7.cd into "/opt/nvidia/deepstream/deepstream-5.0/sources/deepstream_python_apps-1.0/apps/deepstream-ign-rtsp-web"
 
 
 
